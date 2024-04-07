@@ -5,7 +5,7 @@
 </p>
 
 <h2>Sobre mim</h2>  
-<p align="justify">Sempre tive interesse em tecnologia e sou apaixonado por games desde jovem, atualmente estou cursando na area de Ti, e programo algumas aplicações simples de terminal,calculos,leitura e escrita de arquivos, API's de banco de dados. Utilizo principalmente Java e Python.Tenho conhecimentos basicos em linguagem SQL, e banco de dados PostGreSQl e MySQL </b></b></p>
+<p align="justify">Sempre tive interesse em tecnologia e sou apaixonado por games desde jovem, atualmente estou cursando na area de Ti, e programo algumas aplicações simples de terminal,calculos,leitura e escrita de arquivos, API's de banco de dados. Utilizo principalmente Java e Python. Tenho conhecimentos basicos em linguagem SQL, e banco de dados PostGreSQl e MySQL </b></b></p>
 
 <hr>
 
