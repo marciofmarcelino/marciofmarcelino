@@ -27,7 +27,7 @@
 ---
 
 <h2>Contate-me 🤝</h2> 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn](linkedin-shield)][linkedin-url]
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
