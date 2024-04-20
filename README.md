@@ -27,6 +27,6 @@
 ---
 
 <h2>Contate-me 🤝</h2> 
-[![LinkedIn](https://img.shields.io/badge/-MarcioFranco-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marciofmarcelino/)](https://www.linkedin.com/in/marciofmarcelino/)
+(https://img.shields.io/badge/-MarcioFranco-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marciofmarcelino/)](https://www.linkedin.com/in/marciofmarcelino/)
 
 
