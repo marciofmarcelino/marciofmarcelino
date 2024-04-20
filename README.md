@@ -27,5 +27,4 @@
 ---
 
 ## Contate-me 🤝
-https://img.shields.io/badge/-SeuNome-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seunome/
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/marciofmarcelino)
