@@ -28,6 +28,4 @@
 
 <h2>Contate-me 🤝</h2> 
 
-<p align="center">
-  [![LinkedIn][linkedin-shield]](https:www.linkedin.com/in/marciofmarcelino)
-</p>
+[![LinkedIn][linkedin-shield]][https:www.linkedin.com/in/marciofmarcelino]
