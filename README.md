@@ -29,7 +29,7 @@
 <h2>Contate-me 🤝</h2> 
 
 <p align="center">
-  <a target="_blank" href="www.linkedin.com/in/marciofmarcelino" style="cursor:pointer; text-decoration: none">
+  <a target="_blank" href="https:www.linkedin.com/in/marciofmarcelino" style="cursor:pointer; text-decoration: none">
     <img src="https://skillicons.dev/icons?i=linkedin"  style="border: none;">
   </a>
 </p>
