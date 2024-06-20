@@ -1,9 +1,5 @@
 
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=6C63FE&center=true&vCenter=true&multiline=true&random=false&width=700&height=40&lines=Um+jovem estudante+e+futuro+desenvolvedor." alt="Typing SVG" /></a>
-</p>
-
 <h2>Sobre mim</h2>  
 <p align="justify">Sempre tive interesse em tecnologia e sou apaixonado por games desde jovem, atualmente estou cursando na area de Ti, e programo algumas aplicações simples de terminal,calculos,leitura e escrita de arquivos, API's de banco de dados. Utilizo principalmente Java e Python. Tenho conhecimentos basicos em linguagem SQL, e banco de dados PostGreSQl e MySQL </b></b></p>
 
